@@ -1,26 +1,26 @@
-% Videoclub "Los Pajaritos"
-% Ricardo Pérez
-% Curso 2019/20
+% YiiAffinity
+% Miguel Ángel Rodríguez Roldán
+% Curso 2020/21
 
 # Descripción general del proyecto
 
-Explicar.
+Desarrollar un clon de [FilmAffinity](https://www.filmaffinity.com/).
 
 ## Funcionalidad principal de la aplicación
 
-Explicar.
+Base de datos de películas, series, documentales y otros productos
+audiovisuales, consultable a través de una interfaz web.
 
 ## Objetivos generales
 
-A diferencia de los casos de uso, los objetivos no tienen principio ni fin.
+1. Gestionar los datos de los productos audiovisuales (películas, series,
+   documentales, etc.).
 
-Por ejemplo:
-
-* Objetivo: "gestionar los alquileres y las devoluciones de las películas".
-* Casos de uso: "alquilar una película", "devolver una película".
+2. Gestionar las cuentas de los usuarios.
 
 # Elemento de innovación
 
-Aspecto, función o tecnología novedosa o innovadora no tratada directamente
-en clase y que será necesario investigar para desarrollar adecuadamente el
-Proyecto.
+- Almacenamiento de imágenes en un servicio externo.
+
+- Acceso, consulta de información a bases de datos externas de películas y
+  series mediante APIs propias para completado semi-automático de fichas.
